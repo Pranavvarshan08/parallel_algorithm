@@ -1,8 +1,8 @@
-# Bot Detection Dataset 🤖🔍
+# Bot Detection Dataset:
 
 Welcome to the Bot Detection Dataset! This dataset is designed to facilitate the analysis and detection of bot accounts on Twitter. It contains a collection of user profiles and associated tweet data, along with a binary label indicating whether each user is a bot or not.
 
-## Dataset Information 📊
+## Dataset Information :
 
 The dataset is provided in a CSV file format named 'bot_detection_dataset.csv'. It includes the following columns:
 
@@ -18,7 +18,7 @@ The dataset is provided in a CSV file format named 'bot_detection_dataset.csv'. 
 - Created At: The date and time when the tweet was created.
 - Hashtags: The hashtags associated with the tweet.
 
-## How to Use 📝
+## How to Use :
 
 1. Load the dataset: Read the 'bot_detection_dataset.csv' file into your preferred data analysis or machine learning tool/library.
 2. Preprocess the data: Perform any necessary data cleaning, handling missing values, and feature engineering.
@@ -28,7 +28,7 @@ The dataset is provided in a CSV file format named 'bot_detection_dataset.csv'. 
 6. Evaluate the model: Evaluate the model's performance using appropriate evaluation metrics.
 7. Predict Bot or Not: Apply the trained model to new data to predict whether a user is a bot or not.
 
-## ML Algorithms for Bot Detection 🧠💡
+## ML Algorithms for Bot Detection :
 
 Several machine learning algorithms can be applied to predict bot accounts using this dataset. Some commonly used algorithms include:
 
@@ -42,5 +42,5 @@ Experiment with different algorithms and consider performing hyperparameter tuni
 
 Remember to acknowledge the dataset source and provide appropriate citations if you use this dataset for research or analysis.
 
-Enjoy exploring the Bot Detection Dataset and discovering insights into Twitter bot accounts! 🚀🔍
+Enjoy exploring the Bot Detection Dataset and discovering insights into Twitter bot accounts..
 
